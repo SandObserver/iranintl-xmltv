@@ -20,6 +20,10 @@ GENERATOR_NAME = "iranintl-epg"
 REQUEST_TIMEOUT = 30
 MIN_PROGRAMMES = 10
 
+FILLER_TITLE = "ایران اینترنشنال"
+FILLER_CATEGORY = "News"
+FILLER_BLOCK_MINUTES = 60
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
@@ -162,6 +166,50 @@ def normalise(programmes):
     return [item for item in result if item["stop"] > item["start"]]
 
 
+def filler_blocks(start, stop):
+    blocks = []
+    cursor = start
+    while cursor < stop:
+        boundary = (cursor + timedelta(minutes=FILLER_BLOCK_MINUTES)).replace(
+            minute=0, second=0, microsecond=0
+        )
+        end = min(boundary, stop)
+        if end <= cursor:
+            end = stop
+        blocks.append(
+            {
+                "start": cursor,
+                "stop": end,
+                "title": FILLER_TITLE,
+                "category": FILLER_CATEGORY,
+                "slug": "",
+                "filler": True,
+            }
+        )
+        cursor = end
+    return blocks
+
+
+def fill_gaps(programmes, now=None):
+    if not programmes:
+        return programmes
+
+    now = (now or datetime.now(timezone.utc)).replace(second=0, microsecond=0)
+
+    filled = []
+    if now < programmes[0]["start"]:
+        filled.extend(filler_blocks(now, programmes[0]["start"]))
+
+    for index, programme in enumerate(programmes):
+        filled.append(programme)
+        if index + 1 < len(programmes):
+            next_start = programmes[index + 1]["start"]
+            if programme["stop"] < next_start:
+                filled.extend(filler_blocks(programme["stop"], next_start))
+
+    return filled
+
+
 def format_timestamp(value):
     return value.strftime("%Y%m%d%H%M%S %z")
 
@@ -189,6 +237,8 @@ def build_xml(programmes):
             channel=CHANNEL_ID,
         )
         SubElement(element, "title", lang=CHANNEL_LANG).text = programme["title"]
+        if programme.get("filler"):
+            SubElement(element, "live")
         if programme["category"]:
             SubElement(element, "category", lang="en").text = programme["category"]
         if programme["slug"]:
@@ -217,10 +267,14 @@ def main():
             f"{MIN_PROGRAMMES}; refusing to overwrite the existing feed"
         )
 
+    scheduled = len(programmes)
+    programmes = fill_gaps(programmes)
+    filler = len(programmes) - scheduled
+
     write_output(build_xml(programmes))
     print(
-        f"Wrote {len(programmes)} programmes to {OUTPUT_PATH} "
-        f"({format_timestamp(programmes[0]['start'])} to "
+        f"Wrote {scheduled} scheduled programmes plus {filler} filler blocks to "
+        f"{OUTPUT_PATH} ({format_timestamp(programmes[0]['start'])} to "
         f"{format_timestamp(programmes[-1]['stop'])})"
     )
 
