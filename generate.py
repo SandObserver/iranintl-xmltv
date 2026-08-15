@@ -15,6 +15,8 @@ CHANNEL_NAME_FA = "ایران اینترنشنال"
 CHANNEL_NAME_EN = "Iran International"
 CHANNEL_ICON = "https://www.iranintl.com/images/ii/ii-logo-en.svg"
 CHANNEL_LANG = "fa"
+CHANNEL_LANGUAGE_NAME = "فارسی"
+CHANNEL_URL = "https://www.iranintl.com/live"
 
 GENERATOR_NAME = "iranintl-epg"
 REQUEST_TIMEOUT = 30
@@ -30,8 +32,9 @@ ICON_HOST = "i.iranintl.com"
 ICON_LOOKUP_TIMEOUT = 15
 POSTER_WIDTH = 1000
 POSTER_HEIGHT = 1500
-POSTER_BACKGROUND = "000d4d"
+POSTER_BACKGROUND = "1b2e44"
 POSTER_QUALITY = 80
+DESC_MAX_CHARS = 400
 
 HEADERS = {
     "User-Agent": (
@@ -219,7 +222,7 @@ def fill_gaps(programmes, now=None):
     return filled
 
 
-def programme_icon(slug, session):
+def programme_details(slug, session):
     try:
         response = session.get(
             PROGRAMME_PAGE.format(slug=slug),
@@ -228,18 +231,43 @@ def programme_icon(slug, session):
         )
         response.raise_for_status()
     except requests.RequestException:
-        return ""
+        return {}
 
+    return {"icon": find_icon(response.text), "desc": find_desc(response.text)}
+
+
+def find_icon(html):
     match = re.search(
-        r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', response.text
+        r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html
     )
     if not match:
         return ""
 
-    url = match.group(1).replace("&amp;", "&")
+    url = unescape(match.group(1))
     if not url.startswith(f"https://{ICON_HOST}/"):
         return ""
     return as_poster(url)
+
+
+def find_desc(html):
+    match = re.search(
+        r'<meta[^>]+name="description"[^>]+content="([^"]*)"', html
+    )
+    if not match:
+        return ""
+    return " ".join(unescape(match.group(1)).split())[:DESC_MAX_CHARS]
+
+
+def unescape(value):
+    for entity, char in (
+        ("&amp;", "&"),
+        ("&quot;", '"'),
+        ("&#39;", "'"),
+        ("&lt;", "<"),
+        ("&gt;", ">"),
+    ):
+        value = value.replace(entity, char)
+    return value
 
 
 def as_poster(url):
@@ -257,19 +285,22 @@ def as_poster(url):
     return f"{base}?{params}"
 
 
-def attach_icons(programmes):
+def attach_details(programmes):
     slugs = sorted({item["slug"] for item in programmes if item["slug"]})
     if not slugs:
-        return 0
+        return 0, 0
 
     session = requests.Session()
-    icons = {slug: programme_icon(slug, session) for slug in slugs}
-    resolved = {slug: url for slug, url in icons.items() if url}
+    details = {slug: programme_details(slug, session) for slug in slugs}
 
     for item in programmes:
-        item["icon"] = resolved.get(item["slug"], "")
+        found = details.get(item["slug"]) or {}
+        item["icon"] = found.get("icon", "")
+        item["desc"] = found.get("desc", "")
 
-    return len(resolved)
+    icons = sum(1 for found in details.values() if found.get("icon"))
+    descs = sum(1 for found in details.values() if found.get("desc"))
+    return icons, descs
 
 
 def format_timestamp(value):
@@ -289,6 +320,7 @@ def build_xml(programmes):
     SubElement(channel, "display-name", lang=CHANNEL_LANG).text = CHANNEL_NAME_FA
     SubElement(channel, "display-name", lang="en").text = CHANNEL_NAME_EN
     SubElement(channel, "icon", src=CHANNEL_ICON)
+    SubElement(channel, "url").text = CHANNEL_URL
 
     for programme in programmes:
         element = SubElement(
@@ -299,8 +331,11 @@ def build_xml(programmes):
             channel=CHANNEL_ID,
         )
         SubElement(element, "title", lang=CHANNEL_LANG).text = programme["title"]
+        if programme.get("desc"):
+            SubElement(element, "desc", lang=CHANNEL_LANG).text = programme["desc"]
         if programme["category"]:
             SubElement(element, "category", lang="en").text = programme["category"]
+        SubElement(element, "language", lang=CHANNEL_LANG).text = CHANNEL_LANGUAGE_NAME
         SubElement(
             element, "icon", src=programme.get("icon") or PROGRAMME_ICON_FALLBACK
         )
@@ -331,7 +366,7 @@ def main():
         )
 
     scheduled = len(programmes)
-    icons = attach_icons(programmes)
+    icons, descs = attach_details(programmes)
     programmes = fill_gaps(programmes)
     filler = len(programmes) - scheduled
 
@@ -339,7 +374,8 @@ def main():
     print(
         f"Wrote {scheduled} scheduled programmes plus {filler} filler blocks to "
         f"{OUTPUT_PATH} ({format_timestamp(programmes[0]['start'])} to "
-        f"{format_timestamp(programmes[-1]['stop'])}); resolved {icons} programme icons"
+        f"{format_timestamp(programmes[-1]['stop'])}); resolved {icons} icons "
+        f"and {descs} descriptions"
     )
 
 
