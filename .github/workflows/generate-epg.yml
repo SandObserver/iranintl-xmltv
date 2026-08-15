@@ -45,4 +45,12 @@ jobs:
             exit 0
           fi
           git commit -m "chore(epg): refresh feed $(date -u +'%Y-%m-%dT%H:%MZ')"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected, rebasing onto origin/main (attempt $attempt)."
+            git pull --rebase --autostash origin main
+          done
+          echo "Could not push after 3 attempts." >&2
+          exit 1
