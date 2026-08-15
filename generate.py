@@ -13,7 +13,7 @@ OUTPUT_PATH = os.path.join("output", "iranintl.xml")
 CHANNEL_ID = "iranintl.iitv"
 CHANNEL_NAME_FA = "ایران اینترنشنال"
 CHANNEL_NAME_EN = "Iran International"
-CHANNEL_ICON = "https://www.iranintl.com/images/ii/ii-logo-fa.svg"
+CHANNEL_ICON = "https://www.iranintl.com/images/ii/ii-logo-en.svg"
 CHANNEL_LANG = "fa"
 
 GENERATOR_NAME = "iranintl-epg"
@@ -23,6 +23,11 @@ MIN_PROGRAMMES = 10
 FILLER_TITLE = "ایران اینترنشنال"
 FILLER_CATEGORY = "News"
 FILLER_BLOCK_MINUTES = 60
+
+PROGRAMME_PAGE = "https://www.iranintl.com/fa/program/{slug}"
+PROGRAMME_ICON_FALLBACK = "https://www.iranintl.com/images/ii/opengraph-image.webp"
+ICON_HOST = "i.iranintl.com"
+ICON_LOOKUP_TIMEOUT = 15
 
 HEADERS = {
     "User-Agent": (
@@ -210,6 +215,44 @@ def fill_gaps(programmes, now=None):
     return filled
 
 
+def programme_icon(slug, session):
+    try:
+        response = session.get(
+            PROGRAMME_PAGE.format(slug=slug),
+            headers=HEADERS,
+            timeout=ICON_LOOKUP_TIMEOUT,
+        )
+        response.raise_for_status()
+    except requests.RequestException:
+        return ""
+
+    match = re.search(
+        r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', response.text
+    )
+    if not match:
+        return ""
+
+    url = match.group(1).replace("&amp;", "&")
+    if not url.startswith(f"https://{ICON_HOST}/"):
+        return ""
+    return url
+
+
+def attach_icons(programmes):
+    slugs = sorted({item["slug"] for item in programmes if item["slug"]})
+    if not slugs:
+        return 0
+
+    session = requests.Session()
+    icons = {slug: programme_icon(slug, session) for slug in slugs}
+    resolved = {slug: url for slug, url in icons.items() if url}
+
+    for item in programmes:
+        item["icon"] = resolved.get(item["slug"], "")
+
+    return len(resolved)
+
+
 def format_timestamp(value):
     return value.strftime("%Y%m%d%H%M%S %z")
 
@@ -237,13 +280,14 @@ def build_xml(programmes):
             channel=CHANNEL_ID,
         )
         SubElement(element, "title", lang=CHANNEL_LANG).text = programme["title"]
-        if programme.get("filler"):
-            SubElement(element, "live")
         if programme["category"]:
             SubElement(element, "category", lang="en").text = programme["category"]
+        SubElement(
+            element, "icon", src=programme.get("icon") or PROGRAMME_ICON_FALLBACK
+        )
         if programme["slug"]:
-            SubElement(element, "url").text = (
-                f"https://www.iranintl.com/vod/{programme['slug']}"
+            SubElement(element, "url").text = PROGRAMME_PAGE.format(
+                slug=programme["slug"]
             )
 
     indent(tv, space="  ")
@@ -268,6 +312,7 @@ def main():
         )
 
     scheduled = len(programmes)
+    icons = attach_icons(programmes)
     programmes = fill_gaps(programmes)
     filler = len(programmes) - scheduled
 
@@ -275,7 +320,7 @@ def main():
     print(
         f"Wrote {scheduled} scheduled programmes plus {filler} filler blocks to "
         f"{OUTPUT_PATH} ({format_timestamp(programmes[0]['start'])} to "
-        f"{format_timestamp(programmes[-1]['stop'])})"
+        f"{format_timestamp(programmes[-1]['stop'])}); resolved {icons} programme icons"
     )
 
 
