@@ -28,6 +28,10 @@ PROGRAMME_PAGE = "https://www.iranintl.com/fa/program/{slug}"
 PROGRAMME_ICON_FALLBACK = "https://www.iranintl.com/images/ii/opengraph-image.webp"
 ICON_HOST = "i.iranintl.com"
 ICON_LOOKUP_TIMEOUT = 15
+POSTER_WIDTH = 1000
+POSTER_HEIGHT = 1500
+POSTER_BACKGROUND = "000d4d"
+POSTER_QUALITY = 80
 
 HEADERS = {
     "User-Agent": (
@@ -235,7 +239,22 @@ def programme_icon(slug, session):
     url = match.group(1).replace("&amp;", "&")
     if not url.startswith(f"https://{ICON_HOST}/"):
         return ""
-    return url
+    return as_poster(url)
+
+
+def as_poster(url):
+    base = url.split("?", 1)[0]
+    params = "&".join(
+        [
+            f"w={POSTER_WIDTH}",
+            f"h={POSTER_HEIGHT}",
+            "fit=fill",
+            f"bg={POSTER_BACKGROUND}",
+            f"q={POSTER_QUALITY}",
+            "auto=format",
+        ]
+    )
+    return f"{base}?{params}"
 
 
 def attach_icons(programmes):
