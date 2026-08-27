@@ -27,22 +27,20 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260827014500 +0000" stop="20260827020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20260827020000 +0000" stop="20260827023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی</title>
-    <desc lang="fa">در این برنامه مراد ویسی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">programme</category>
+  <programme start="20260827020000 +0000" stop="20260827030000 +0000" channel="iranintl.iitv">
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/455fba048fbef7ff4dac52a1b7f978be5d350af7-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/news-special-with-morad</url>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20260827023000 +0000" stop="20260827031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
+  <programme start="20260827030000 +0000" stop="20260827031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -439,12 +437,12 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828060000 +0000" stop="20260828061500 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
-    <desc lang="fa">مجموعه مستند «مرگ خامنه‌ای؛ پایان دیکتاتور» به بررسی کارنامه ۳۶ سال رهبری علی خامنه‌ای، پیامدهای فقدان، اهمیت حذف دیکتاتور، و چالش‌های پیش روی مجتبی خامنه‌ای و جمهوری اسلامی می‌پردازد.</desc>
+    <title lang="fa">چرتکه</title>
+    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0b8a0d02aa6b655b22aaa5013cd33066c6780d60-640x360.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/the-death-of-khamenei</url>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/chortkeh</url>
   </programme>
   <programme start="20260828061500 +0000" stop="20260828063000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
@@ -505,12 +503,10 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828101500 +0000" stop="20260828103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828103000 +0000" stop="20260828111500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -545,12 +541,12 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828131500 +0000" stop="20260828133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
-    <desc lang="fa">مجموعه مستند «مرگ خامنه‌ای؛ پایان دیکتاتور» به بررسی کارنامه ۳۶ سال رهبری علی خامنه‌ای، پیامدهای فقدان، اهمیت حذف دیکتاتور، و چالش‌های پیش روی مجتبی خامنه‌ای و جمهوری اسلامی می‌پردازد.</desc>
+    <title lang="fa">چرتکه</title>
+    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0b8a0d02aa6b655b22aaa5013cd33066c6780d60-640x360.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/the-death-of-khamenei</url>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/chortkeh</url>
   </programme>
   <programme start="20260828133000 +0000" stop="20260828141500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -595,12 +591,10 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828170000 +0000" stop="20260828171500 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
+    <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828171500 +0000" stop="20260828173000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
@@ -617,18 +611,18 @@
     <url>https://www.iranintl.com/fa/program/the-last-word</url>
   </programme>
   <programme start="20260828180000 +0000" stop="20260828181500 +0000" channel="iranintl.iitv">
-    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
-    <desc lang="fa">مجموعه مستند «مرگ خامنه‌ای؛ پایان دیکتاتور» به بررسی کارنامه ۳۶ سال رهبری علی خامنه‌ای، پیامدهای فقدان، اهمیت حذف دیکتاتور، و چالش‌های پیش روی مجتبی خامنه‌ای و جمهوری اسلامی می‌پردازد.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0b8a0d02aa6b655b22aaa5013cd33066c6780d60-640x360.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/the-death-of-khamenei</url>
-  </programme>
-  <programme start="20260828181500 +0000" stop="20260828183000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20260828181500 +0000" stop="20260828183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">چرتکه</title>
+    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/chortkeh</url>
   </programme>
   <programme start="20260828183000 +0000" stop="20260828191500 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
@@ -667,30 +661,24 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20260828210000 +0000" stop="20260828213000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">حرف آخر با پوریا زراعتی</title>
+    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/the-last-word</url>
   </programme>
-  <programme start="20260828213000 +0000" stop="20260828220000 +0000" channel="iranintl.iitv">
+  <programme start="20260828213000 +0000" stop="20260828221500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20260828220000 +0000" stop="20260828221500 +0000" channel="iranintl.iitv">
+  <programme start="20260828221500 +0000" stop="20260828223000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260828221500 +0000" stop="20260828223000 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
   </programme>
   <programme start="20260828223000 +0000" stop="20260828224500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
