@@ -6,352 +6,6 @@
     <icon src="https://www.iranintl.com/images/ii/ii-logo-en.svg" />
     <url>https://www.iranintl.com/live</url>
   </channel>
-  <programme start="20260925003000 +0000" stop="20260925011500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925011500 +0000" stop="20260925013000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925013000 +0000" stop="20260925014500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925014500 +0000" stop="20260925020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925020000 +0000" stop="20260925030000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925030000 +0000" stop="20260925031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925031500 +0000" stop="20260925033000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925033000 +0000" stop="20260925041500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925041500 +0000" stop="20260925043000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925043000 +0000" stop="20260925050000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925050000 +0000" stop="20260925053000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20260925053000 +0000" stop="20260925060000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925060000 +0000" stop="20260925061500 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20260925061500 +0000" stop="20260925063000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925063000 +0000" stop="20260925071500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925071500 +0000" stop="20260925073000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925073000 +0000" stop="20260925074500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925074500 +0000" stop="20260925080000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925081500 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
-  </programme>
-  <programme start="20260925081500 +0000" stop="20260925083000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925083000 +0000" stop="20260925091500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925091500 +0000" stop="20260925093000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925093000 +0000" stop="20260925101500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925101500 +0000" stop="20260925103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925103000 +0000" stop="20260925111500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925111500 +0000" stop="20260925113000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925113000 +0000" stop="20260925120000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925131500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925131500 +0000" stop="20260925133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925133000 +0000" stop="20260925141500 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه بازی‌های آسیایی</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925141500 +0000" stop="20260925143000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20260925143000 +0000" stop="20260925151500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925151500 +0000" stop="20260925153000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه بازی‌های آسیایی</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925153000 +0000" stop="20260925161500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925161500 +0000" stop="20260925163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925170000 +0000" stop="20260925173000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی</title>
-    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/the-last-word</url>
-  </programme>
-  <programme start="20260925180000 +0000" stop="20260925181500 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
-  </programme>
-  <programme start="20260925181500 +0000" stop="20260925183000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925183000 +0000" stop="20260925191500 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
-  </programme>
-  <programme start="20260925191500 +0000" stop="20260925193000 +0000" channel="iranintl.iitv">
-    <title lang="fa">آمران کشتار</title>
-    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
-  </programme>
-  <programme start="20260925193000 +0000" stop="20260925201500 +0000" channel="iranintl.iitv">
-    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
-    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/hattrick</url>
-  </programme>
-  <programme start="20260925201500 +0000" stop="20260925203000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925203000 +0000" stop="20260925210000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی</title>
-    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/the-last-word</url>
-  </programme>
-  <programme start="20260925213000 +0000" stop="20260925221500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925221500 +0000" stop="20260925223000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه بازی‌های آسیایی</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925223000 +0000" stop="20260925224500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925224500 +0000" stop="20260925233000 +0000" channel="iranintl.iitv">
-    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
-    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/hattrick</url>
-  </programme>
-  <programme start="20260925233000 +0000" stop="20260925234500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
-  </programme>
-  <programme start="20260925234500 +0000" stop="20260926003000 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
-    <category lang="en">programme</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
-  </programme>
   <programme start="20260926003000 +0000" stop="20260926011500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">programme</category>
@@ -1815,6 +1469,332 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261001234500 +0000" stop="20261002003000 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد</title>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
+  </programme>
+  <programme start="20261002003000 +0000" stop="20261002011500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002011500 +0000" stop="20261002013000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002013000 +0000" stop="20261002014500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002014500 +0000" stop="20261002020000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002023000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261002023000 +0000" stop="20261002031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002031500 +0000" stop="20261002033000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002033000 +0000" stop="20261002041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002041500 +0000" stop="20261002043000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002043000 +0000" stop="20261002050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002050000 +0000" stop="20261002053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261002053000 +0000" stop="20261002060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002060000 +0000" stop="20261002063000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خانه عنکبوتی:  داستان هکرهای جمهوری اسلامی</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002063000 +0000" stop="20261002071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002071500 +0000" stop="20261002073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002073000 +0000" stop="20261002074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002074500 +0000" stop="20261002081500 +0000" channel="iranintl.iitv">
+    <title lang="fa">دومینو</title>
+    <desc lang="fa">تحلیلی از علی حسین قاضی زاده در مورد آخرین اخبار ایران</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0f2196696133e6720ebc5b18dfd74614488a6342-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/domino-live</url>
+  </programme>
+  <programme start="20261002081500 +0000" stop="20261002083000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002083000 +0000" stop="20261002091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002091500 +0000" stop="20261002093000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002093000 +0000" stop="20261002101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002101500 +0000" stop="20261002103000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002103000 +0000" stop="20261002111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002111500 +0000" stop="20261002113000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002113000 +0000" stop="20261002120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261002123000 +0000" stop="20261002131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002131500 +0000" stop="20261002133000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002133000 +0000" stop="20261002141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه بازی‌های آسیایی</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002141500 +0000" stop="20261002143000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002143000 +0000" stop="20261002151500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002151500 +0000" stop="20261002153000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه بازی‌های آسیایی</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002153000 +0000" stop="20261002161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002161500 +0000" stop="20261002163000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002163000 +0000" stop="20261002170000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002170000 +0000" stop="20261002173000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261002173000 +0000" stop="20261002180000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی</title>
+    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/the-last-word</url>
+  </programme>
+  <programme start="20261002180000 +0000" stop="20261002183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">مرگ خامنه‌ای؛ پایان دیکتاتور</title>
+    <desc lang="fa">مجموعه مستند «مرگ خامنه‌ای؛ پایان دیکتاتور» به بررسی کارنامه ۳۶ سال رهبری علی خامنه‌ای، پیامدهای فقدان، اهمیت حذف دیکتاتور، و چالش‌های پیش روی مجتبی خامنه‌ای و جمهوری اسلامی می‌پردازد.</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0b8a0d02aa6b655b22aaa5013cd33066c6780d60-640x360.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/the-death-of-khamenei</url>
+  </programme>
+  <programme start="20261002183000 +0000" stop="20261002191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد</title>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
+  </programme>
+  <programme start="20261002191500 +0000" stop="20261002193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">آمران کشتار</title>
+    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
+  </programme>
+  <programme start="20261002193000 +0000" stop="20261002201500 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
+    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/hattrick</url>
+  </programme>
+  <programme start="20261002201500 +0000" stop="20261002203000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002203000 +0000" stop="20261002210000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002210000 +0000" stop="20261002213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی</title>
+    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/the-last-word</url>
+  </programme>
+  <programme start="20261002213000 +0000" stop="20261002221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002221500 +0000" stop="20261002223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه بازی‌های آسیایی</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002223000 +0000" stop="20261002224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002224500 +0000" stop="20261002233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
+    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/hattrick</url>
+  </programme>
+  <programme start="20261002233000 +0000" stop="20261002234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">programme</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+  </programme>
+  <programme start="20261002234500 +0000" stop="20261003003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
     <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
     <category lang="en">programme</category>
