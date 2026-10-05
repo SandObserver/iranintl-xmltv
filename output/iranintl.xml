@@ -27,22 +27,20 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261005014500 +0000" stop="20261005020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">programme</category>
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20261005020000 +0000" stop="20261005023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی</title>
-    <desc lang="fa">در این برنامه مراد ویسی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">programme</category>
+  <programme start="20261005020000 +0000" stop="20261005030000 +0000" channel="iranintl.iitv">
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/455fba048fbef7ff4dac52a1b7f978be5d350af7-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/news-special-with-morad</url>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20261005023000 +0000" stop="20261005031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
+  <programme start="20261005030000 +0000" stop="20261005031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -147,10 +145,12 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261005101500 +0000" stop="20261005103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ترانه‌ای برای ژینا مهسا</title>
+    <title lang="fa">ترانه‌ای برای مهسا ژینا امینی</title>
+    <desc lang="fa">مستند کوتاه به کارگردانی مهران عباسیان به یاد مهسا ژینا امینی، با حضور دو هنرمند دانمارکی و ایرانی که از طریق موسیقی خود، صدای ژینا را زنده نگه می‌دارند.</desc>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/3c91bb7a9a6acb5d5ef88fa5372bf6f0d347cb32-1920x1080.jpg?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/a-song-for-zhina-mahsa</url>
   </programme>
   <programme start="20261005103000 +0000" stop="20261005111500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -237,10 +237,12 @@
     <url>https://www.iranintl.com/fa/program/economics-daily</url>
   </programme>
   <programme start="20261005161500 +0000" stop="20261005163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ترانه‌ای برای ژینا مهسا</title>
+    <title lang="fa">ترانه‌ای برای مهسا ژینا امینی</title>
+    <desc lang="fa">مستند کوتاه به کارگردانی مهران عباسیان به یاد مهسا ژینا امینی، با حضور دو هنرمند دانمارکی و ایرانی که از طریق موسیقی خود، صدای ژینا را زنده نگه می‌دارند.</desc>
     <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/3c91bb7a9a6acb5d5ef88fa5372bf6f0d347cb32-1920x1080.jpg?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/a-song-for-zhina-mahsa</url>
   </programme>
   <programme start="20261005163000 +0000" stop="20261005171500 +0000" channel="iranintl.iitv">
     <title lang="fa">تیتر اول با نیوشا صارمی</title>
