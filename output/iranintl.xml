@@ -32,23 +32,21 @@
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">سیاست با مراد ویسی</title>
-    <desc lang="fa">در این برنامه مراد ویسی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">programme</category>
+  <programme start="20261006020000 +0000" stop="20261006030000 +0000" channel="iranintl.iitv">
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/455fba048fbef7ff4dac52a1b7f978be5d350af7-450x253.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
-    <url>https://www.iranintl.com/fa/program/news-special-with-morad</url>
+    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
-  <programme start="20261006023000 +0000" stop="20261006031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">programme</category>
+  <programme start="20261006030000 +0000" stop="20261006031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">ایران اینترنشنال</title>
+    <category lang="en">News</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006031500 +0000" stop="20261006033000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -95,8 +93,8 @@
     <url>https://www.iranintl.com/fa/program/daily-report-with-mojtaba-pourmohesen</url>
   </programme>
   <programme start="20261006061500 +0000" stop="20261006063000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -107,8 +105,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006071500 +0000" stop="20261006073000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -133,8 +131,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006091500 +0000" stop="20261006093000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -145,10 +143,12 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006101500 +0000" stop="20261006103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">آمران کشتار</title>
+    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
   </programme>
   <programme start="20261006103000 +0000" stop="20261006111500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -183,8 +183,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006131500 +0000" stop="20261006133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -195,8 +195,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006141500 +0000" stop="20261006143000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -235,8 +235,8 @@
     <url>https://www.iranintl.com/fa/program/economics-daily</url>
   </programme>
   <programme start="20261006161500 +0000" stop="20261006163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -249,10 +249,12 @@
     <url>https://www.iranintl.com/fa/program/titre-aval</url>
   </programme>
   <programme start="20261006171500 +0000" stop="20261006173000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">آمران کشتار</title>
+    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
   </programme>
   <programme start="20261006173000 +0000" stop="20261006181500 +0000" channel="iranintl.iitv">
     <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
@@ -263,8 +265,8 @@
     <url>https://www.iranintl.com/fa/program/talk-show</url>
   </programme>
   <programme start="20261006181500 +0000" stop="20261006183000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -315,8 +317,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261006221500 +0000" stop="20261006223000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -369,8 +371,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007014500 +0000" stop="20261007020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -389,8 +391,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007031500 +0000" stop="20261007033000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -437,8 +439,8 @@
     <url>https://www.iranintl.com/fa/program/daily-report-with-mojtaba-pourmohesen</url>
   </programme>
   <programme start="20261007061500 +0000" stop="20261007063000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -449,10 +451,12 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007071500 +0000" stop="20261007073000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">ترانه‌ای برای مهسا ژینا امینی</title>
+    <desc lang="fa">مستند کوتاه به کارگردانی مهران عباسیان به یاد مهسا ژینا امینی، با حضور دو هنرمند دانمارکی و ایرانی که از طریق موسیقی خود، صدای ژینا را زنده نگه می‌دارند.</desc>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/3c91bb7a9a6acb5d5ef88fa5372bf6f0d347cb32-1920x1080.jpg?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/a-song-for-zhina-mahsa</url>
   </programme>
   <programme start="20261007073000 +0000" stop="20261007074500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
@@ -475,8 +479,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007091500 +0000" stop="20261007093000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -487,8 +491,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007101500 +0000" stop="20261007103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -525,8 +529,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007131500 +0000" stop="20261007133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -537,8 +541,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007141500 +0000" stop="20261007143000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -577,8 +581,8 @@
     <url>https://www.iranintl.com/fa/program/economics-daily</url>
   </programme>
   <programme start="20261007161500 +0000" stop="20261007163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -591,10 +595,12 @@
     <url>https://www.iranintl.com/fa/program/titre-aval</url>
   </programme>
   <programme start="20261007171500 +0000" stop="20261007173000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">ترانه‌ای برای مهسا ژینا امینی</title>
+    <desc lang="fa">مستند کوتاه به کارگردانی مهران عباسیان به یاد مهسا ژینا امینی، با حضور دو هنرمند دانمارکی و ایرانی که از طریق موسیقی خود، صدای ژینا را زنده نگه می‌دارند.</desc>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
-    <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/3c91bb7a9a6acb5d5ef88fa5372bf6f0d347cb32-1920x1080.jpg?w=1000&amp;h=1500&amp;fit=fill&amp;bg=1b2e44&amp;q=80&amp;auto=format" />
+    <url>https://www.iranintl.com/fa/program/a-song-for-zhina-mahsa</url>
   </programme>
   <programme start="20261007173000 +0000" stop="20261007181500 +0000" channel="iranintl.iitv">
     <title lang="fa">چشم‌انداز با مهدی مهدوی‌آزاد</title>
@@ -605,8 +611,8 @@
     <url>https://www.iranintl.com/fa/program/talk-show</url>
   </programme>
   <programme start="20261007181500 +0000" stop="20261007183000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
@@ -657,8 +663,8 @@
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
   <programme start="20261007221500 +0000" stop="20261007223000 +0000" channel="iranintl.iitv">
-    <title lang="fa">ایران اینترنشنال</title>
-    <category lang="en">News</category>
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">programme</category>
     <language lang="fa">فارسی</language>
     <icon src="https://www.iranintl.com/images/ii/opengraph-image.webp" />
   </programme>
