@@ -6,7 +6,7 @@ official schedule page by GitHub Actions and committed back to this repository.
 ## Feed
 
 ```
-https://raw.githubusercontent.com/<username>/<repo>/main/output/iranintl.xml
+https://raw.githubusercontent.com/SandObserver/iranintl-xmltv/main/output/iranintl.xml
 ```
 
 Channel id: `iranintl.iitv`
@@ -15,14 +15,27 @@ Add the URL as an XMLTV source in m3u-editor, Dispatcharr, Threadfin, Jellyfin,
 Tvheadend or any other XMLTV client, then map it to your Iran International
 channel using the `iranintl.iitv` tvg-id.
 
+The feed lists only the programmes on the official schedule. Time between them is
+left empty, so your client can show its own placeholder. A programme carries an
+`<icon>` only when Iran International publishes artwork for it, padded to a 2:3
+poster.
+
 ## Running locally
 
+The generator uses only the Python standard library. It needs Python 3.13 and
+[uv](https://docs.astral.sh/uv/).
+
 ```
-pip install -r requirements.txt
-python generate.py
+uv run python generate.py
 ```
 
 Run from the repository root; output is written to `output/iranintl.xml`.
+
+## Development
+
+```
+uv run ruff format --check . && uv run ruff check . && uv run mypy && uv run pytest
+```
 
 ## Notes
 
