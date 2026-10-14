@@ -96,12 +96,20 @@ def test_build_programmes_skips_unusable_entries(capsys: pytest.CaptureFixture[s
     assert "Skipped 3 unusable" in capsys.readouterr().err
 
 
-def test_build_programmes_drops_generic_type_and_keeps_real_ones() -> None:
-    days = [{"items": [item(0), item(30, type="Documentary", slug=" doc ")]}]
-    first, second = generate.build_programmes(days)
-    assert first.category == ""
-    assert second.category == "Documentary"
-    assert second.slug == "doc"
+def test_build_programmes_labels_bulletins_shows_and_documentaries() -> None:
+    days = [
+        {
+            "items": [
+                item(0, englishTitle="IITV News"),
+                item(30, slug=" talk ", englishTitle="News Special with Host"),
+                item(60, slug="doc", englishTitle="Amnesty Report Documentary Series"),
+            ]
+        }
+    ]
+    bulletin, show, documentary = generate.build_programmes(days)
+    assert (bulletin.category, bulletin.slug) == ("News", "")
+    assert (show.category, show.slug) == ("Talk", "talk")
+    assert documentary.category == "Documentary"
 
 
 def test_build_programmes_falls_back_to_english_title() -> None:
@@ -125,9 +133,9 @@ def test_normalise_removes_duplicates_and_overlaps_and_keeps_gaps() -> None:
     ]
 
 
-def test_find_icon_accepts_only_site_images_and_pads_to_poster() -> None:
+def test_find_icon_accepts_only_site_images_and_keeps_them_as_published() -> None:
     icon = generate.find_icon(show_page("https://i.iranintl.com/a.jpg?w=10&amp;h=5", ""))
-    assert icon == ("https://i.iranintl.com/a.jpg?w=1000&h=1500&fit=fill&bg=1b2e44&q=80&auto=format")
+    assert icon == "https://i.iranintl.com/a.jpg"
     assert generate.find_icon(show_page("https://www.iranintl.com/images/ii/opengraph-image.webp", "")) == ""
     assert generate.find_icon("<html></html>") == ""
 
@@ -146,7 +154,7 @@ def test_attach_details_only_sets_found_icons() -> None:
     ]
     pages = {generate.PROGRAMME_PAGE.format(slug="a"): show_page("https://i.iranintl.com/a.jpg", "About A")}
     assert generate.attach_details(programmes, fake_fetcher(pages)) == (1, 1)
-    assert programmes[0].icon.startswith("https://i.iranintl.com/a.jpg?")
+    assert programmes[0].icon == "https://i.iranintl.com/a.jpg"
     assert programmes[0].desc == "About A"
     assert programmes[1].icon == programmes[1].desc == ""
     assert programmes[2].icon == ""

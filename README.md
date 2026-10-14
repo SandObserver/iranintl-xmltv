@@ -17,8 +17,13 @@ channel using the `iranintl.iitv` tvg-id.
 
 The feed lists only the programmes on the official schedule. Time between them is
 left empty, so your client can show its own placeholder. A programme carries an
-`<icon>` only when Iran International publishes artwork for it, padded to a 2:3
-poster.
+`<icon>` only when Iran International publishes artwork for it, in its original
+wide shape.
+
+Each programme has one category. News bulletins, which have no show page on the
+site, are `News`. Named shows are `Talk`, or `Documentary` when their English
+title says so. Plex files `News` under Live TV > Browse > News and the rest under
+Shows.
 
 ## Running locally
 
