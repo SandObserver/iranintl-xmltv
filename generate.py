@@ -28,13 +28,11 @@ MIN_PROGRAMMES = 10
 
 PROGRAMME_PAGE = "https://www.iranintl.com/fa/program/{slug}"
 ICON_HOST = "i.iranintl.com"
-POSTER_WIDTH = 1000
-POSTER_HEIGHT = 1500
-POSTER_BACKGROUND = "1b2e44"
-POSTER_QUALITY = 80
 DESC_MAX_CHARS = 400
-# The site labels every entry with this type, so it says nothing about the show.
-GENERIC_TYPES = frozenset({"programme", "program"})
+# Bulletins have no show page on the site; every named show has one.
+BULLETIN_CATEGORY = "News"
+SHOW_CATEGORY = "Talk"
+DOCUMENTARY_CATEGORY = "Documentary"
 
 HEADERS = {
     "User-Agent": (
@@ -171,16 +169,22 @@ def _programme(item: dict[str, Any]) -> Programme | None:
     minutes = parse_duration_minutes(item.get("duration"))
     if start is None or not title or minutes <= 0:
         return None
-    category = str(details.get("type") or "").strip()
-    if category.casefold() in GENERIC_TYPES:
-        category = ""
+    slug = str(details.get("slug") or "").strip()
     return Programme(
         start=start,
         stop=start + timedelta(minutes=minutes),
         title=title,
-        category=category,
-        slug=str(details.get("slug") or "").strip(),
+        category=category_for(slug, str(details.get("englishTitle") or "")),
+        slug=slug,
     )
+
+
+def category_for(slug: str, english_title: str) -> str:
+    if not slug:
+        return BULLETIN_CATEGORY
+    if "documentary" in english_title.casefold():
+        return DOCUMENTARY_CATEGORY
+    return SHOW_CATEGORY
 
 
 def normalise(programmes: list[Programme]) -> list[Programme]:
@@ -210,7 +214,7 @@ def find_icon(page: str) -> str:
     url = html.unescape(match.group(1))
     if not url.startswith(f"https://{ICON_HOST}/"):
         return ""
-    return as_poster(url)
+    return url.split("?", 1)[0]
 
 
 def find_desc(page: str) -> str:
@@ -218,12 +222,6 @@ def find_desc(page: str) -> str:
     if not match:
         return ""
     return " ".join(html.unescape(match.group(1)).split())[:DESC_MAX_CHARS]
-
-
-def as_poster(url: str) -> str:
-    base = url.split("?", 1)[0]
-    params = f"w={POSTER_WIDTH}&h={POSTER_HEIGHT}&fit=fill&bg={POSTER_BACKGROUND}&q={POSTER_QUALITY}&auto=format"
-    return f"{base}?{params}"
 
 
 def attach_details(programmes: list[Programme], fetcher: Fetcher = fetch) -> tuple[int, int]:
