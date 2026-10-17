@@ -6,306 +6,6 @@
     <icon src="https://www.iranintl.com/images/ii/ii-logo-en.svg" />
     <url>https://www.iranintl.com/live</url>
   </channel>
-  <programme start="20261016003000 +0000" stop="20261016011500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016011500 +0000" stop="20261016013000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016013000 +0000" stop="20261016014500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016014500 +0000" stop="20261016020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016020000 +0000" stop="20261016023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/fereydoun</url>
-  </programme>
-  <programme start="20261016023000 +0000" stop="20261016031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016031500 +0000" stop="20261016033000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016033000 +0000" stop="20261016041500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016041500 +0000" stop="20261016043000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016043000 +0000" stop="20261016050000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016050000 +0000" stop="20261016053000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/fereydoun</url>
-  </programme>
-  <programme start="20261016053000 +0000" stop="20261016060000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016060000 +0000" stop="20261016063000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20261016063000 +0000" stop="20261016071500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016071500 +0000" stop="20261016073000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016073000 +0000" stop="20261016074500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016074500 +0000" stop="20261016081500 +0000" channel="iranintl.iitv">
-    <title lang="fa">دومینو</title>
-    <desc lang="fa">تحلیلی از علی حسین قاضی زاده در مورد آخرین اخبار ایران</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0f2196696133e6720ebc5b18dfd74614488a6342-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/domino-live</url>
-  </programme>
-  <programme start="20261016081500 +0000" stop="20261016083000 +0000" channel="iranintl.iitv">
-    <title lang="fa">آمران کشتار</title>
-    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
-    <category lang="en">Documentary</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
-  </programme>
-  <programme start="20261016083000 +0000" stop="20261016091500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016091500 +0000" stop="20261016093000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016093000 +0000" stop="20261016101500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016101500 +0000" stop="20261016103000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016103000 +0000" stop="20261016111500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016111500 +0000" stop="20261016113000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر ورزشی</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016113000 +0000" stop="20261016120000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016120000 +0000" stop="20261016123000 +0000" channel="iranintl.iitv">
-    <title lang="fa">فریدون</title>
-    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/fereydoun</url>
-  </programme>
-  <programme start="20261016123000 +0000" stop="20261016131500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016131500 +0000" stop="20261016133000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016133000 +0000" stop="20261016141500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016141500 +0000" stop="20261016143000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016143000 +0000" stop="20261016151500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016151500 +0000" stop="20261016153000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر ورزشی</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016153000 +0000" stop="20261016161500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016161500 +0000" stop="20261016163000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016163000 +0000" stop="20261016170000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="iranintl.iitv">
-    <title lang="fa">گفت‌وگوی ویژه</title>
-    <desc lang="fa">گفت‌وگوی ویژه</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
-  </programme>
-  <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی</title>
-    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/the-last-word</url>
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016181500 +0000" channel="iranintl.iitv">
-    <title lang="fa">چرتکه</title>
-    <desc lang="fa">در این برنامه محمد ماشین‌چیان با منطق بازار و ابزارهای اقتصادی چرتکه می‌اندازد تا گره‌های پیچیده اقتصاد را باز کرده و بینندگان را به تصمیم‌های بهتر برساند.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/f390ab0f1f17bbb4ff33bf8b106ad84717880cf8-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/chortkeh</url>
-  </programme>
-  <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016183000 +0000" stop="20261016191500 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
-  </programme>
-  <programme start="20261016191500 +0000" stop="20261016193000 +0000" channel="iranintl.iitv">
-    <title lang="fa">آمران کشتار</title>
-    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
-    <category lang="en">Documentary</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png" />
-    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
-  </programme>
-  <programme start="20261016193000 +0000" stop="20261016201500 +0000" channel="iranintl.iitv">
-    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
-    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/hattrick</url>
-  </programme>
-  <programme start="20261016201500 +0000" stop="20261016203000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016203000 +0000" stop="20261016210000 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016210000 +0000" stop="20261016213000 +0000" channel="iranintl.iitv">
-    <title lang="fa">حرف آخر با پوریا زراعتی</title>
-    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/the-last-word</url>
-  </programme>
-  <programme start="20261016213000 +0000" stop="20261016221500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016221500 +0000" stop="20261016223000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016223000 +0000" stop="20261016224500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016224500 +0000" stop="20261016233000 +0000" channel="iranintl.iitv">
-    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
-    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/hattrick</url>
-  </programme>
-  <programme start="20261016233000 +0000" stop="20261016234500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261016234500 +0000" stop="20261017003000 +0000" channel="iranintl.iitv">
-    <title lang="fa">۲۴ با فرداد فرحزاد</title>
-    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
-  </programme>
   <programme start="20261017003000 +0000" stop="20261017011500 +0000" channel="iranintl.iitv">
     <title lang="fa">خبر</title>
     <category lang="en">News</category>
@@ -1762,6 +1462,300 @@
     <language lang="fa">فارسی</language>
   </programme>
   <programme start="20261022234500 +0000" stop="20261023003000 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد</title>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
+  </programme>
+  <programme start="20261023003000 +0000" stop="20261023011500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023011500 +0000" stop="20261023013000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023013000 +0000" stop="20261023014500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023014500 +0000" stop="20261023020000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023020000 +0000" stop="20261023023000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261023023000 +0000" stop="20261023031500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023031500 +0000" stop="20261023033000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023033000 +0000" stop="20261023041500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023041500 +0000" stop="20261023043000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023043000 +0000" stop="20261023050000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023050000 +0000" stop="20261023053000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261023053000 +0000" stop="20261023060000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023060000 +0000" stop="20261023063000 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه</title>
+    <desc lang="fa">گفت‌وگوی ویژه</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
+  </programme>
+  <programme start="20261023063000 +0000" stop="20261023071500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023071500 +0000" stop="20261023073000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023073000 +0000" stop="20261023074500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023074500 +0000" stop="20261023081500 +0000" channel="iranintl.iitv">
+    <title lang="fa">دومینو</title>
+    <desc lang="fa">تحلیلی از علی حسین قاضی زاده در مورد آخرین اخبار ایران</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0f2196696133e6720ebc5b18dfd74614488a6342-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/domino-live</url>
+  </programme>
+  <programme start="20261023081500 +0000" stop="20261023083000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023083000 +0000" stop="20261023091500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023091500 +0000" stop="20261023093000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023093000 +0000" stop="20261023101500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023101500 +0000" stop="20261023103000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023103000 +0000" stop="20261023111500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023111500 +0000" stop="20261023113000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر ورزشی</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023113000 +0000" stop="20261023120000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="iranintl.iitv">
+    <title lang="fa">فریدون</title>
+    <desc lang="fa">در این برنامه علیرضا کیانی نگاهی تحلیلی دارد به تازه‌ترین تحولات سیاسی ایران و جهان</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/af5399906d8763b7cc0349129dfa7c37fb6a6551-1920x1080.png" />
+    <url>https://www.iranintl.com/fa/program/fereydoun</url>
+  </programme>
+  <programme start="20261023123000 +0000" stop="20261023131500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023131500 +0000" stop="20261023133000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023133000 +0000" stop="20261023141500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023141500 +0000" stop="20261023143000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023143000 +0000" stop="20261023151500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023151500 +0000" stop="20261023153000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر ورزشی</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023153000 +0000" stop="20261023161500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023161500 +0000" stop="20261023163000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023163000 +0000" stop="20261023170000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023170000 +0000" stop="20261023173000 +0000" channel="iranintl.iitv">
+    <title lang="fa">گفت‌وگوی ویژه</title>
+    <desc lang="fa">گفت‌وگوی ویژه</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/539ca4f0a7aabf0deee8d6ae5ee8ce0df3892589-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/special-interview-series</url>
+  </programme>
+  <programme start="20261023173000 +0000" stop="20261023180000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی</title>
+    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/the-last-word</url>
+  </programme>
+  <programme start="20261023180000 +0000" stop="20261023181500 +0000" channel="iranintl.iitv">
+    <title lang="fa">آمران کشتار</title>
+    <desc lang="fa">عفو بین‌الملل سرکوب مرگ‌بار خیزش «زن زندگی آزادی» پس از کشته‌شدن مهسا امینی در بازداشت را مستند کرده است.</desc>
+    <category lang="en">Documentary</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/cf7d69f49e43839808faeba96c34ee15b577002d-1920x1080.png" />
+    <url>https://www.iranintl.com/fa/program/mahsa-amini-amnesty-report-documentary-series</url>
+  </programme>
+  <programme start="20261023181500 +0000" stop="20261023183000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023183000 +0000" stop="20261023191500 +0000" channel="iranintl.iitv">
+    <title lang="fa">۲۴ با فرداد فرحزاد</title>
+    <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/2b063327637f5133866dac1418bde46fd9cb44cb-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/24-with-fardad</url>
+  </programme>
+  <programme start="20261023191500 +0000" stop="20261023193000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023193000 +0000" stop="20261023201500 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
+    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/hattrick</url>
+  </programme>
+  <programme start="20261023201500 +0000" stop="20261023203000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023203000 +0000" stop="20261023210000 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023210000 +0000" stop="20261023213000 +0000" channel="iranintl.iitv">
+    <title lang="fa">حرف آخر با پوریا زراعتی</title>
+    <desc lang="fa">حرف آخر با پوریا زراعتی٬ یک برنامه تحلیلی هفتگی‌ است که هر جمعه ساعت ۲۱:۰۰ به وقت تهران از ایران اینترنشنال پخش می‌شود.این برنامه فارغ از رویدادهای روزمره و با تاکید بر آینده‌ای بهتر برای ایرانیان، نگاهی عمیق‌تر دارد به مسائل اصلی که ایران امروز با آن‌ها روبرو است. شخصیت‌های سرشناس ایرانی، کارشناسان و تحلیلگران شناخته‌شده در حوزه‌های مختلف و همچنین چهره‌های جوان فعال در عرصه‌های سیاسی و اقتصادی، م</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/8bee83f2ea134304c1486fb1f252081e2911f942-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/the-last-word</url>
+  </programme>
+  <programme start="20261023213000 +0000" stop="20261023221500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023221500 +0000" stop="20261023223000 +0000" channel="iranintl.iitv">
+    <title lang="fa">پوشش ویژه خبری</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023223000 +0000" stop="20261023224500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023224500 +0000" stop="20261023233000 +0000" channel="iranintl.iitv">
+    <title lang="fa">هت‌تریک با مزدک میرزایی</title>
+    <desc lang="fa">فوتبال، این پدیده جذاب اجتماعی و برنامه‌ای که به متن و حواشی آن می‌پردازد. هت‌تریک با مزدک میرزایی</desc>
+    <category lang="en">Talk</category>
+    <language lang="fa">فارسی</language>
+    <icon src="https://i.iranintl.com/images/rdk9umy0/production/132eedb8f7fbef53c1416a2682cf968af33f190c-450x253.png" />
+    <url>https://www.iranintl.com/fa/program/hattrick</url>
+  </programme>
+  <programme start="20261023233000 +0000" stop="20261023234500 +0000" channel="iranintl.iitv">
+    <title lang="fa">خبر</title>
+    <category lang="en">News</category>
+    <language lang="fa">فارسی</language>
+  </programme>
+  <programme start="20261023234500 +0000" stop="20261024003000 +0000" channel="iranintl.iitv">
     <title lang="fa">۲۴ با فرداد فرحزاد</title>
     <desc lang="fa">فرداد فرحزاد، اخبار فوری، گفتگوهای عمیق و گزارش‌های بی‌نظیر را از سراسر جهان برای شما به ارمغان می آورد.</desc>
     <category lang="en">Talk</category>
