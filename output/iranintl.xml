@@ -21,24 +21,6 @@
     <category lang="en">News</category>
     <language lang="fa">فارسی</language>
   </programme>
-  <programme start="20261024014500 +0000" stop="20261024020000 +0000" channel="iranintl.iitv">
-    <title lang="fa">پوشش ویژه خبری</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
-  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel="iranintl.iitv">
-    <title lang="fa">دومینو</title>
-    <desc lang="fa">تحلیلی از علی حسین قاضی زاده در مورد آخرین اخبار ایران</desc>
-    <category lang="en">Talk</category>
-    <language lang="fa">فارسی</language>
-    <icon src="https://i.iranintl.com/images/rdk9umy0/production/0f2196696133e6720ebc5b18dfd74614488a6342-450x253.png" />
-    <url>https://www.iranintl.com/fa/program/domino-live</url>
-  </programme>
-  <programme start="20261024023000 +0000" stop="20261024031500 +0000" channel="iranintl.iitv">
-    <title lang="fa">خبر</title>
-    <category lang="en">News</category>
-    <language lang="fa">فارسی</language>
-  </programme>
   <programme start="20261024031500 +0000" stop="20261024033000 +0000" channel="iranintl.iitv">
     <title lang="fa">پوشش ویژه خبری</title>
     <category lang="en">News</category>
